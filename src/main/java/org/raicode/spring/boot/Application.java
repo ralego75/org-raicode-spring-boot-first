@@ -1,4 +1,4 @@
-package hello;
+package org.raicode.spring.boot;
 
 import java.util.Arrays;
 
